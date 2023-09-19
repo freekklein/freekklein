@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Freek Klein, a Data Enthusiast managing a team of data scientists and analysts. I live in Voorschoten, The Netherlands.
+
 <!--
 **freekklein/freekklein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
